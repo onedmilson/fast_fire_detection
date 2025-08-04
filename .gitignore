@@ -1,0 +1,23 @@
+
+# Virtual environments
+venv/
+.env/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# YOLO output folders (if generated)
+runs/
+
+# Streamlit temp files
+.streamlit/
+
+# Uploads or temp folders (if you add them later)
+uploads/
+temp/
